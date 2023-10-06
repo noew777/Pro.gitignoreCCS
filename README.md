@@ -9,7 +9,7 @@ should not be usedin other PC becouse they could generate errors. If you have se
 in the sameworkspace you must copy the lines that contain <YourProjectName> and paste them in 
 the document with the other project's name. 
 
-Note: REMEMBER TO CHANGE <YourProjectName> in the file and type your project's name
+Note: REMEMBER TO CHANGE <YourProjectName> in the file and type your project's name...
 
 I hope this file could help you all with your CCS project's :)
 
