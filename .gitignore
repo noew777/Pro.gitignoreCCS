@@ -1,0 +1,13 @@
+#**************************************************
+#**This file must be placed in your CCS workspace**
+#**************************************************
+.jxbrowser.userdata/
+.metadata/
+RemoteSystemsTempFiles/
+dvt/
+<YourProjectName>/Debug/
+<YourProjectName>/.launches/
+<YourProjectName>/.settings/
+<YourProjectName>/.ccsproject
+<YourProjectName>/.cproject
+<YourProjectName>/.project
