@@ -1,5 +1,5 @@
-# GitignoreCCS
-A gitignore file for your projects from Code Composer Studio. You must place this file
+# Pro.gitignoreCCCS
+  A gitignore file for your projects from Code Composer Studio. You must place this file
 in your CCS workspace. The folder that CCS says where your workspace is, if you put it in
 another carpet although it will be inside of your workspace will not work, in this case you 
 must change the file's name(correct their local directory). The first lines will ignore the 
