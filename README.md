@@ -11,6 +11,6 @@ the document with the other project's name.
 
 Note: REMEMBER TO CHANGE <YourProjectName> in the file and type your project's name...
 
-I hope this file could help you all with your CCS project's :)
+I hope this file could help you all with your CCS projects :)
 
 
